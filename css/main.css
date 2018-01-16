@@ -1,0 +1,113 @@
+.col-md-3 {
+
+}
+
+.container-fluid {
+    width: 980px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+.logo {
+}
+
+.vcenter {
+}
+
+#corp {
+    font-family: Arial;
+    color: #4c4c4c;
+    font-size: 13px;
+    margin-top: 5%;
+}
+
+#call_num {
+    margin-top: 2%;
+}
+
+#num {
+
+}
+
+#call {
+    color: #4c4c4c;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+#call_me_btn {
+    margin-top: 5%;
+}
+
+.btn-outline-primary {
+    color: #007BFF;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: transparent;
+    background-image: none;
+    border-color: #007bff;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.blue_line {
+    border-bottom: 2px #2fa3d4 solid;
+}
+
+.my_nav > li > a {
+    text-transform: uppercase;
+    color: #182654;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: 300;
+}
+
+.vcenter_parent {
+    display: flex;
+    align-items: center;
+}
+
+/*слайдеры у карусели*/
+.carousel-indicators li {
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 13px;
+    height: 13px;
+    border-radius: 22px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+    border-radius: 22px;
+    background-color: #fff;
+
+}
+.banner {
+    background: #ffffff;
+    margin: 0 0 111px 0;
+    width: 645px;
+    height: 330px;
+}
+.banner h4, .banner p {
+    color: black;
+}
+.banner_info {
+    margin-left: 84px;
+    margin-top: 52px;
+}
+h4.banner_info {
+    text-transform: uppercase;
+}
